@@ -9,7 +9,7 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
     <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=dark" /></td>
   </tr>   
 </table>
-</center>
+</center><br>
 
 <h4 align="left">
   Sou formada em publicidade e propaganda, já trabalhei como designer e hoje me aventuro no mundo da programação, mais especificamente em front-end.
@@ -17,7 +17,7 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 
 <p align="left">
     I'm graduated in advertising and marketing, already worked as a designer, I already worked as a designer and today I play into the world of programming, more specifically in front-end.
-</p>
+</p><br><br>
 
 <h4 align="left">
   📌 De <b>São Paulo</b>, <b>Brazil</b>  
@@ -25,16 +25,16 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 
 <p align="left">
     📌 Living in <b>São Paulo</b>, <b>Brazil</b>  
-</p>
+</p><br><br>
 
 <h4 align="left">
   🌱 Atualmente estou aprendendo JS e seus frameworks, como o React.
 </h4>
 
-<p align="left"> 🌱 I’m currently learning JS and your frameworks, like React. </p>
+<p align="left"> 🌱 I’m currently learning JS and your frameworks, like React. </p><br><br>
 
 <h4 align="left">
-  🌱 Atualmente trabalho como Desenvolvedora Front-End na Gmode Tecnologia.
+  💼 Atualmente trabalho como Desenvolvedora Front-End na Gmode Tecnologia.
 </h4>
 
 <p align="left">💼 Currently working with Front-end Developer at Gmode Technology. </p>
