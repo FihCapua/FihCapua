@@ -16,7 +16,7 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 </h4>
 
 <p align="left">
-    I'm graduated in advertising and marketing, already worked as a designer, today I play into the world of programming, more specifically in front-end.
+    I'm graduated in advertising and marketing, already worked as a designer, and today I play into the world of programming, more specifically in front-end.
 </p><br>
 
 <h4 align="left">
