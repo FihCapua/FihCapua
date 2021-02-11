@@ -17,7 +17,7 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 
 <p align="left">
     I'm graduated in advertising and marketing, already worked as a designer, I already worked as a designer and today I play into the world of programming, more specifically in front-end.
-</p><br><br>
+</p><br>
 
 <h4 align="left">
   📌 De <b>São Paulo</b>, <b>Brazil</b>  
@@ -25,13 +25,13 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 
 <p align="left">
     📌 Living in <b>São Paulo</b>, <b>Brazil</b>  
-</p><br><br>
+</p><br>
 
 <h4 align="left">
   🌱 Atualmente estou aprendendo JS e seus frameworks, como o React.
 </h4>
 
-<p align="left"> 🌱 I’m currently learning JS and your frameworks, like React. </p><br><br>
+<p align="left"> 🌱 I’m currently learning JS and your frameworks, like React. </p><br>
 
 <h4 align="left">
   💼 Atualmente trabalho como Desenvolvedora Front-End na Gmode Tecnologia.
