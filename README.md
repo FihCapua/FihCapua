@@ -28,13 +28,13 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 </p><br>
 
 <h4 align="left">
-  🌱 Atualmente estou aprendendo JS e seus frameworks, como o React.
+  🤓 Atualmente estou aprendendo JS e seus frameworks, como o React.
 </h4>
 
-<p align="left"> 🌱 I’m currently learning JS and your frameworks, like React. </p><br>
+<p align="left"> 🤓 I’m currently learning JS and your frameworks, like React. </p><br>
 
 <h4 align="left">
-  💼 Atualmente trabalho como Desenvolvedora Front-End na Gmode Tecnologia.
+  💼 Trabalho como Desenvolvedora Front-End na Gmode Tecnologia.
 </h4>
 
-<p align="left">💼 Currently working with Front-end Developer at Gmode Technology. </p>
+<p align="left">💼 I'm working with Front-end Developer at Gmode Technology. </p>
