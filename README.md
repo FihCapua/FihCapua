@@ -3,7 +3,7 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 </h2>
 <p align="left"> Hey! My name is Fiama de Capua, but please call me Fih 👋 </p>
 
-<table>
+<table style="overflow: hidden">
   <tr>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&hide=html&layout=compact&theme=tokyonight" /></td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=tokyonight" /></td>
