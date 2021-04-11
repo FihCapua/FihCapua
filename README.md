@@ -39,4 +39,4 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 
 <p align="left">💼 I'm working as Front-end Developer at Gmode Technology. </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fihcapua)
