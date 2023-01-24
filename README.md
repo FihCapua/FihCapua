@@ -32,11 +32,3 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 </h4>
 
 <p align="left"> 🤓 I’m currently learning JS and it's frameworks, like React. </p><br>
-
-<!-- <h4 align="left">
-  💼 Trabalho como Desenvolvedora Front-End na Gmode Tecnologia.
-</h4> -->
-
-<!-- <p align="left">💼 I'm working as Front-end Developer at Gmode Technology. </p> -->
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fihcapua)
