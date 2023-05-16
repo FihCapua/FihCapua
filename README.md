@@ -5,7 +5,7 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 
 <table>
   <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&hide=html&layout=compact&theme=tokyonight" /></td>
+    <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&hide=html&layout=compact&theme=tokyonight" /></td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=tokyonight" /></td>
   </tr>   
 </table>
