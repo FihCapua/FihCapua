@@ -32,3 +32,6 @@ Olá! Meu nome é Fiama de Capua, mas pode me chamar de Fih 👋
 </h4>
 
 <p align="left"> 🤓 I’m currently learning JS and it's frameworks, like React. </p><br>
+
+
+[![An image of @fihcapua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fihcapua)](https://holopin.io/@fihcapua)
