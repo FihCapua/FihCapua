@@ -14,22 +14,25 @@ Sou desenvolvedora front-end apaixonada por criar interfaces intuitivas e esteti
 <p align="left">Hello! My name is Fiama de Capua, but you can call me Fih. <br />
   I'm a front-end developer passionate about creating intuitive and aesthetically pleasing interfaces. 👋 
 </p>
+<br />
 
-<h4 align="left">
-  Minha jornada:
+<h4 align="left">  Minha jornada: </h4>
+<p align="left">
 
  - Graduada em Publicidade e Propaganda: Com experiência em design gráfico e marketing, entendi a importância da comunicação visual e da experiência do usuário.
  - Em busca de novos desafios: Abracei o mundo da programação, me graduando em Análise e Desenvolvimento de Sistemas.
  - Apaixonada por Front-End: Me especializei em tecnologias como JavaScript, TypeScript, React e Next.js, construindo interfaces web interativas e responsivas.
-</h4>
+</p>
 
-<h4 align="left">
-  My journey:
+<h4 align="left">   My journey: </h4>
+
+<p align="left">
 
  - Bachelor's Degree in Advertising and Marketing: With experience in graphic design and marketing, I understood the importance of visual communication and user experience.
- - Seeking new challenges: embraced the world of programming, graduating in Systems Analysis and Development.
+ - Seeking new challenges: I embraced the world of programming, graduating in Systems Analysis and Development.
  - Front-End passion: I specialized in technologies like JavaScript, TypeScript, React, and Next.js, building interactive and responsive web interfaces.
-</h4>
+</p>
+
 <br />
 
   📌 De <b>São Paulo</b>, <b>Brazil</b>  <br />
