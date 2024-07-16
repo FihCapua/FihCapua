@@ -32,12 +32,6 @@ Sou desenvolvedora front-end apaixonada por criar interfaces intuitivas e esteti
  - Seeking new challenges: I embraced the world of programming, graduating in Systems Analysis and Development.
  - Front-End passion: I specialized in technologies like JavaScript, TypeScript, React, and Next.js, building interactive and responsive web interfaces.
 </p>
-
-<br />
-
-  📌 De <b>São Paulo</b>, <b>Brazil</b>  <br />
-    📌 Living in <b>São Paulo</b>, <b>Brazil</b>  
-    <br />
  
 ---
  - [x] ***Aprendendo continuamente***:  -  Estou sempre buscando novas tecnologias e aprimorando minhas habilidades.
