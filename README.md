@@ -6,7 +6,6 @@ Sou desenvolvedora front-end apaixonada por criar interfaces intuitivas e esteti
 <p align="left">Hello! My name is Fiama de Capua, but you can call me Fih. <br />
   I'm a front-end developer passionate about creating intuitive and aesthetically pleasing interfaces. 👋 
 </p>
-<br />
 
 <h4 align="left">  Minha jornada: </h4>
 <p align="left">
