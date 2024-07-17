@@ -1,16 +1,8 @@
 
-<table>
-  <tr>
-    <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&hide=html&layout=compact&theme=aura" /></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=aura" /></td>
-  </tr>   
-</table>
-</center><br>
-
-<h2 align="left">
+<h3 align="left">
 Olá!  Meu nome é Fiama de Capua, mas pode me chamar de Fih. <br />
 Sou desenvolvedora front-end apaixonada por criar interfaces intuitivas e esteticamente agradáveis. 👋
-</h2>
+</h3>
 <p align="left">Hello! My name is Fiama de Capua, but you can call me Fih. <br />
   I'm a front-end developer passionate about creating intuitive and aesthetically pleasing interfaces. 👋 
 </p>
@@ -33,9 +25,17 @@ Sou desenvolvedora front-end apaixonada por criar interfaces intuitivas e esteti
  - Front-End passion: I specialized in technologies like JavaScript, TypeScript, React, and Next.js, building interactive and responsive web interfaces.
 </p>
  
----
- - [x] ***Aprendendo continuamente***:  -  Estou sempre buscando novas tecnologias e aprimorando minhas habilidades.
- - [x]   **Comunidade:** Adoro colaborar com outros desenvolvedores e compartilhar meu conhecimento.
----
- - [x] **Continuous learning:** I'm always looking for new technologies and improving my skills.
- - [x]  **Community:** I love collaborating with other developers and sharing my knowledge.
+***Aprendendo continuamente***:  -  Estou sempre buscando novas tecnologias e aprimorando minhas habilidades. - Adoro colaborar com outros desenvolvedores e compartilhar meu conhecimento. <br />
+
+***Continuous learning:*** I'm always looking for new technologies and improving my skills. - I love collaborating with other developers and sharing my knowledge. <br />
+
+<br />
+<table>
+  <tr style="border: 0px;">
+    <td>
+    <img width="330px" height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+    <img width="340px" height="150px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=FihCapua&theme=midnight-purple&hide_border=true" />
+    <img width="240px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>   
+</table><br />
