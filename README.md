@@ -30,11 +30,11 @@ Sou desenvolvedora front-end apaixonada por criar interfaces intuitivas e esteti
 
 <br />
 <table>
-  <tr style="border: 0px;">
+  <tr>
     <td style="border: 0px;">
-      <img style="padding-right: 10px;" width="330px" height="280px" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-      <img style="padding-right: 10px;" width="340px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=FihCapua&theme=midnight-purple&hide_border=true" />
-      <img style="padding-right: 10px;" width="240px" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+      <img width="330px" height="280px" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+      <img width="340px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=FihCapua&theme=midnight-purple&hide_border=true" />
+      <img width="240px" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table><br />
