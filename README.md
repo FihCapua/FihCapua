@@ -29,12 +29,9 @@ Sou desenvolvedora front-end apaixonada por criar interfaces intuitivas e esteti
 ***Continuous learning:*** I'm always looking for new technologies and improving my skills. - I love collaborating with other developers and sharing my knowledge. <br />
 
 <br />
-<table>
-  <tr>
-    <td style="border: 0px;">
-      <img width="330px" height="280px" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-      <img width="340px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=FihCapua&theme=midnight-purple&hide_border=true" />
-      <img width="240px" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
-    </td>
-  </tr>
-</table><br />
+<div style="display: flex; align-items: center;">
+      <img style="padding-right: 5px;" width="310px" height="280px" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+      <img style="padding-right: 5px;" width="330px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=FihCapua&theme=midnight-purple&hide_border=true" />
+      <img width="238px" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+</div>
+<br />
