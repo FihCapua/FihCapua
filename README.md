@@ -1,25 +1,32 @@
+<h2 align="left">Hi there, I´m Fiama de Capua, but you can call me Fih. 👋</h2>
 
-<h3 align="left">Hi there, I´m Fiama de Capua, but you can call me Fih. 👋 <br />
-  I'm a front-end developer passionate about creating intuitive and aesthetically pleasing interfaces.
-</h3>
+###
 
-<h4 align="left">My journey: </h4>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FihCapua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FihCapua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
-<p align="left">
+###
 
- - Bachelor's Degree in Advertising and Marketing: With experience in graphic design and marketing, I understood the importance of visual communication and user experience.
- - Seeking new challenges: I embraced the world of programming, graduating in Systems Analysis and Development.
- - Front-End passion: I specialized in technologies like JavaScript, TypeScript, React, and Next.js, building interactive and responsive web interfaces.
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
 
-***Continuous learning:*** I'm always looking for new technologies and improving my skills. - I love collaborating with other developers and sharing my knowledge. <br />
+###
 
-<br />
+<br clear="both">
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><img width="310px" height="280px" src="https://github-readme-stats.vercel.app/api?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" /></td>
-    <td style="border: none;"><img width="330px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=FihCapua&theme=midnight-purple&hide_border=true" /></td>
-    <td style="border: none;"><img width="238px" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FihCapua&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" /></td>
-  </tr>
-</table>
+###
