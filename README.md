@@ -1,10 +1,12 @@
 <h2 align="center">Hi there, I´m Fiama de Capua, but you can call me Fih. 👋</h2>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FihCapua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=FihCapua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fihcapua&theme=midnight_purple" alt="profile details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fihcapua&theme=midnight_purple" alt="laguages by repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fihcapua&theme=midnight_purple" alt="languages by commit"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fihcapua&theme=midnight_purple" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fihcapua&theme=midnight_purple" />
 </div>
 
 ###
